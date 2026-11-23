@@ -39,6 +39,12 @@ A walkthrough and hands-on practice tool for working out where a recording was m
 **[SATCOM Interference Intro](https://curtisarnold3.github.io/satcom-interference-intro/)**
 A narrated introduction to spotting and working around a jammer on a satellite link, followed by a live spectrum analyzer scenario you can play with. Fictional and unclassified.
 
+**[The Debasement Tape](https://curtisarnold3.github.io/debasement-tape/)**
+A scroll-driven dashboard on the purchasing power of the US dollar from 1900 to today. Scroll is time, a play button runs the whole tape, and the receipts sit at the bottom.
+
+**[The Devil's Tape](https://curtisarnold3.github.io/devils-tape/)**
+A scroll-driven replay of the US financial crisis, 1978 to 2012, built as a live-narration dashboard after *All the Devils Are Here*.
+
 ### Tools and learning
 
 **[Learn WCS](https://www.learnwcs.dance)**
