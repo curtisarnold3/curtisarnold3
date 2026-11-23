@@ -14,6 +14,9 @@ A 66-day accountability app that runs the book's protocol as software. You get o
 **[REWIRED: Interactive Edition](https://book.startrewired.com)**
 The book *REWIRED: The 21-Day Protocol* as an 18-chapter interactive read, with scroll-driven figures that show the neuroscience instead of just describing it.
 
+**[REWIRED: The Text Version](https://github.com/curtisarnold3/Rewired-book)**
+The full manuscript of *The Science of Why You Keep Failing, and the 21-Day Protocol That Actually Works*. It turns neuroscience and behavioral psychology into a practical protocol for installing a new behavior in 21 days and making it stick to 66. Meant to be read right on GitHub.
+
 **[HOSTS](https://www.starvethehost.com)**
 The reader, listening room and storefront for *HOSTS: A Field Guide to the Parasites Eating Your Life, and the Structure That Starves Them*.
 
@@ -39,6 +42,15 @@ A walkthrough and hands-on practice tool for working out where a recording was m
 **[SATCOM Interference Intro](https://curtisarnold3.github.io/satcom-interference-intro/)**
 A narrated introduction to spotting and working around a jammer on a satellite link, followed by a live spectrum analyzer scenario you can play with. Fictional and unclassified.
 
+**[The Debasement Tape](https://curtisarnold3.github.io/debasement-tape/)**
+A scroll-driven dashboard on the purchasing power of the US dollar from 1900 to today. Scroll is time, a play button runs the whole tape, and the receipts sit at the bottom.
+
+**[The Devil's Tape](https://curtisarnold3.github.io/devils-tape/)**
+A scroll-driven replay of the US financial crisis, 1978 to 2012, built as a live-narration dashboard after *All the Devils Are Here*.
+
+**[Beyond Materialism](https://github.com/curtisarnold3/BeyondMaterialism)**
+A twelve-chapter essay series on the limits of a purely materialist view of reality, from the hard problem of consciousness and quantum observation to panpsychism and a consciousness-first model, ending with critiques and responses. Meant to be read right on GitHub.
+
 ### Tools and learning
 
 **[Learn WCS](https://www.learnwcs.dance)**
@@ -46,6 +58,9 @@ A free, scroll-down map of West Coast Swing from beginner to novice: 60+ moves, 
 
 **[The Flask](https://www.flasktoplant.com)**
 Thirty-six techniques for acclimating tissue culture plants and selling them: the eight-week schedule, the mistakes that cost you a tray, and honest numbers.
+
+**[AI Skills Desk](https://curtisarnold3.github.io/skills-desk/)**
+Type what you're trying to do and the right AI skills and playbook come up. It's a searchable desk for the SFB Skills Pack, with step-by-step playbooks for things like building an offer or funnel, paid traffic, organic growth and selling.
 
 **[Mortgage Rate Driver Desk](https://mortgage-rate-desk.vercel.app)**
 Splits the 30-year mortgage rate into the 10-year Treasury plus a risk spread, then lets you move each driver to see what it does to your rate and monthly payment. Not financial advice.
@@ -55,6 +70,8 @@ Splits the 30-year mortgage rate into the 10-year Treasury plus a risk spread, t
 ## Reach me
 
 📫 curtis.arnold3 at gmail dot com
+
+
 
 <!---
 curtisarnold3/curtisarnold3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
