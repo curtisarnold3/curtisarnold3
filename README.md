@@ -59,6 +59,9 @@ A free, scroll-down map of West Coast Swing from beginner to novice: 60+ moves, 
 **[The Flask](https://www.flasktoplant.com)**
 Thirty-six techniques for acclimating tissue culture plants and selling them: the eight-week schedule, the mistakes that cost you a tray, and honest numbers.
 
+**[AI Skills Desk](https://github.com/curtisarnold3/skills-desk)**
+Type what you're trying to do and the right AI skills and playbook come up. It's a searchable desk for the SFB Skills Pack, with step-by-step playbooks for things like building an offer or funnel, paid traffic, organic growth and selling. Browse it on GitHub.
+
 **[Mortgage Rate Driver Desk](https://mortgage-rate-desk.vercel.app)**
 Splits the 30-year mortgage rate into the 10-year Treasury plus a risk spread, then lets you move each driver to see what it does to your rate and monthly payment. Not financial advice.
 
