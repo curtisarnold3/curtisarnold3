@@ -14,6 +14,9 @@ A 66-day accountability app that runs the book's protocol as software. You get o
 **[REWIRED: Interactive Edition](https://book.startrewired.com)**
 The book *REWIRED: The 21-Day Protocol* as an 18-chapter interactive read, with scroll-driven figures that show the neuroscience instead of just describing it.
 
+**[REWIRED: The Text Version](https://github.com/curtisarnold3/Rewired-book)**
+The full manuscript of *The Science of Why You Keep Failing, and the 21-Day Protocol That Actually Works*. It turns neuroscience and behavioral psychology into a practical protocol for installing a new behavior in 21 days and making it stick to 66. Meant to be read right on GitHub.
+
 **[HOSTS](https://www.starvethehost.com)**
 The reader, listening room and storefront for *HOSTS: A Field Guide to the Parasites Eating Your Life, and the Structure That Starves Them*.
 
