@@ -45,6 +45,9 @@ A scroll-driven dashboard on the purchasing power of the US dollar from 1900 to 
 **[The Devil's Tape](https://curtisarnold3.github.io/devils-tape/)**
 A scroll-driven replay of the US financial crisis, 1978 to 2012, built as a live-narration dashboard after *All the Devils Are Here*.
 
+**[Beyond Materialism](https://github.com/curtisarnold3/BeyondMaterialism)**
+A twelve-chapter essay series on the limits of a purely materialist view of reality, from the hard problem of consciousness and quantum observation to panpsychism and a consciousness-first model, ending with critiques and responses. Meant to be read right on GitHub.
+
 ### Tools and learning
 
 **[Learn WCS](https://www.learnwcs.dance)**
