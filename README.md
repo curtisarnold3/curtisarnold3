@@ -36,6 +36,9 @@ A source-checked explainer that separates what's documented from what's interpre
 **[Hearing Where You Are](https://hearing-where-you-are.vercel.app/#tool)**
 A walkthrough and hands-on practice tool for working out where a recording was made, by matching the pitch change of an aircraft flyover to public flight tracks.
 
+**[SATCOM Interference Intro](https://curtisarnold3.github.io/satcom-interference-intro/)**
+A narrated introduction to spotting and working around a jammer on a satellite link, followed by a live spectrum analyzer scenario you can play with. Fictional and unclassified.
+
 ### Tools and learning
 
 **[Learn WCS](https://www.learnwcs.dance)**
