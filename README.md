@@ -17,6 +17,9 @@ The book *REWIRED: The 21-Day Protocol* as an 18-chapter interactive read, with 
 **[REWIRED: The Text Version](https://github.com/curtisarnold3/Rewired-book)**
 The full manuscript of *The Science of Why You Keep Failing, and the 21-Day Protocol That Actually Works*. It turns neuroscience and behavioral psychology into a practical protocol for installing a new behavior in 21 days and making it stick to 66. Meant to be read right on GitHub.
 
+**[People Don't Want to Be Fixed... They Want to Be Seen & Not Judged](https://applied-behavior-profiling.vercel.app)**
+A free 8-week course in reading people from what they say: the need they're chasing, how they justify decisions, and what they value most. Thirty-seven short lessons, flashcards and scenario quizzes, a practice log, a profile builder, and printable pocket cards. No account needed; your progress stays in your browser.
+
 **[HOSTS](https://www.starvethehost.com)**
 The reader, listening room and storefront for *HOSTS: A Field Guide to the Parasites Eating Your Life, and the Structure That Starves Them*.
 
